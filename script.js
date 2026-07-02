@@ -6,5 +6,4 @@
   }
   `;
   (document.body||document.firstElementChild).appendChild(style);
-  
 })();
